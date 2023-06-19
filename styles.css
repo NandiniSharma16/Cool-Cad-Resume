@@ -1,0 +1,24 @@
+h3{
+  color: black;
+  font-family: cursive;
+}
+body{
+  background-color: lavender;
+  color:#704F4F;
+  font-family:cursive;
+  margin: 2px
+}
+h1{
+  color:#472D2D;
+  font-family:Ebrima
+}
+hr{
+  color: gray;
+  border-style: none;
+  border-top-style: dotted;
+  width: 5%;
+  border-width: 5px
+}
+img{
+  border-radius: 50%;
+}
